@@ -1,0 +1,12 @@
+{
+  "name": "ros_lib Arduino",
+  "keywords": "rosserial, ros, robot operating system" ,
+  "description": "An implementation of the rosserial protocol for Arduino",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enwaytech/ros_lib_arduino.git"
+  },
+  "version": "0.7.7",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
