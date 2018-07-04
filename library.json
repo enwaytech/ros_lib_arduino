@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/enwaytech/ros_lib_arduino.git"
   },
-  "version": "0.7.7",
+  "version": "0.7.7.1",
   "frameworks": "arduino",
   "platforms": "*"
 }
